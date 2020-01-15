@@ -1,0 +1,28 @@
+if-else :
+
+let a: Int = 10
+let b: Int = 20
+print("If else ")
+if a>b {
+print("a is greter than b")
+}else{
+print("b is greter than a")
+}
+
+For loop:
+
+for n in 1...5{
+print("value is \(n)")
+}
+
+Switch - case:
+
+let a:Int = 2
+
+switch a{
+case 1:
+print ("a value is 1")
+case 2:
+print ("a value is 2")
+}
+
